@@ -1,6 +1,7 @@
 import random
 
 countries_capitals = {
+   #add more countries here
     "Poland": "Warsaw",
     "Germany": "Berlin",
     "France": "Paris",
