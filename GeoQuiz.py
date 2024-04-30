@@ -62,3 +62,4 @@ def quiz():
 
 print("Welcome in geography quiz, made by Helion")
 geography_quiz()
+input("Press Enter to exit...")
