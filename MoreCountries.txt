@@ -1,0 +1,4 @@
+if you want add more countries, just edit file GeoQuiz.py
+and below #add more countries comment u can put your position
+at format "Country": "Capital",
+enjoyy!
